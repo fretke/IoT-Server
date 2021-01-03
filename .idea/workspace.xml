@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="345f34fc-78b3-44f0-ab41-7da1d68741ac" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1i8FmmZPiOjsBuFzMq2zXb9kWh8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../IoT-TS/iot-ts" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="345f34fc-78b3-44f0-ab41-7da1d68741ac" name="Default Changelist" comment="" />
+      <created>1601281473246</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601281473246</updated>
+      <workItem from="1601281474314" duration="815000" />
+      <workItem from="1601837899767" duration="661000" />
+      <workItem from="1601878389534" duration="122000" />
+      <workItem from="1602264761053" duration="665000" />
+      <workItem from="1602875039914" duration="623000" />
+      <workItem from="1602921164002" duration="4241000" />
+      <workItem from="1603008666199" duration="2698000" />
+      <workItem from="1603048827997" duration="612000" />
+      <workItem from="1603305176664" duration="83000" />
+      <workItem from="1603739660284" duration="1294000" />
+      <workItem from="1603826707693" duration="724000" />
+      <workItem from="1603912616979" duration="12000" />
+      <workItem from="1604684913549" duration="2303000" />
+      <workItem from="1604760703091" duration="2250000" />
+      <workItem from="1604863692739" duration="654000" />
+      <workItem from="1605280756312" duration="35000" />
+      <workItem from="1605895878018" duration="2128000" />
+      <workItem from="1605954684630" duration="2951000" />
+      <workItem from="1606032563591" duration="2145000" />
+      <workItem from="1606059195480" duration="6701000" />
+      <workItem from="1606551046462" duration="3237000" />
+      <workItem from="1606642902895" duration="1304000" />
+      <workItem from="1607021775226" duration="11000" />
+      <workItem from="1607176406262" duration="5458000" />
+      <workItem from="1607243519587" duration="2627000" />
+      <workItem from="1607871664889" duration="1026000" />
+      <workItem from="1608371660114" duration="7617000" />
+      <workItem from="1608457690626" duration="9276000" />
+      <workItem from="1608811585330" duration="4111000" />
+      <workItem from="1608832922801" duration="3439000" />
+      <workItem from="1608993214800" duration="2913000" />
+      <workItem from="1609010961665" duration="1577000" />
+      <workItem from="1609074236588" duration="2217000" />
+      <workItem from="1609444642153" duration="1194000" />
+      <workItem from="1609602248620" duration="613000" />
+      <workItem from="1609617972858" duration="615000" />
+      <workItem from="1609663914860" duration="2369000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1515" y="282" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609664958534">
+      <screen x="-2560" y="-220" width="2560" height="1400" />
+    </state>
+    <state x="-1515" y="282" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-2560.-220.2560.1400@-2560.-220.2560.1400" timestamp="1609664958534" />
+    <state x="-1451" y="211" key="FileChooserDialogImpl" timestamp="1609602263727">
+      <screen x="-2560" y="-220" width="2560" height="1400" />
+    </state>
+    <state x="-1088" y="320" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603305258105" />
+    <state x="832" y="320" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1601878399625" />
+    <state x="-1673" y="122" key="FileChooserDialogImpl/0.0.1920.1040/-2560.-220.2048.1112@-2560.-220.2048.1112" timestamp="1604863728056" />
+    <state x="-1451" y="211" key="FileChooserDialogImpl/0.0.1920.1040/-2560.-220.2560.1400@-2560.-220.2560.1400" timestamp="1609602263727" />
+    <state x="832" y="320" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605280779986" />
+  </component>
+</project>
