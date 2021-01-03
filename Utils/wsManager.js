@@ -10,7 +10,9 @@ const inEvents = {
     taskCompleted: "taskCompleted",
     servoPos: "servoPos",
     addDevice: "addDevice",
-    deleteDevice: "deleteDevice"
+    deleteDevice: "deleteDevice",
+    heartBeat: "heartBeat",
+    controllerPong: "controllerPong",
 }
 
 const outEvents = {
@@ -23,7 +25,9 @@ const outEvents = {
     onServoAdd: "onServoAdd",
     onServoDelete: "onServoDelete",
     onDeviceAdd: "onDeviceAdd",
-    onDeviceDelete: "onDeviceDelete"
+    onDeviceDelete: "onDeviceDelete",
+    controllerPing: "controllerPing",
+    onControllerPong: "onControllerPong",
 }
 
 class WsManager {
@@ -98,6 +102,12 @@ class WsManager {
         socket.on(inEvents.deleteDevice, (data) => {
             socket.to(socket.room).emit(outEvents.onDeviceDelete, data);
         });
+        socket.on(inEvents.heartBeat, (data) => {
+            socket.to(socket.room).emit(outEvents.controllerPing, data)
+        });
+        socket.on(inEvents.controllerPong, (data) => {
+            socket.to(socket.room).emit(outEvents.onControllerPong, +data.data)
+        })
     }
 }
 

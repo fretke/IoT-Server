@@ -39,7 +39,7 @@ app.use("/esp8266", boardRoutes);
 app.use(express.static("public"));
 
 mongoose
-  .connect("mongodb+srv://admin-fretke:test.123@cluster0-hncei.mongodb.net/IoT?retryWrites=true&w=majority", {
+  .connect(process.env.MONGOOSE, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
   })

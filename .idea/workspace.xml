@@ -20,7 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="345f34fc-78b3-44f0-ab41-7da1d68741ac" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utils/wsManager.js" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/wsManager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +31,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1i8FmmZPiOjsBuFzMq2zXb9kWh8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -39,7 +42,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../IoT-TS/iot-ts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -89,6 +92,8 @@
       <workItem from="1609602248620" duration="613000" />
       <workItem from="1609617972858" duration="615000" />
       <workItem from="1609663914860" duration="2369000" />
+      <workItem from="1609666619127" duration="1165000" />
+      <workItem from="1609693817887" duration="3989000" />
     </task>
     <servers />
   </component>
@@ -112,13 +117,13 @@
       <screen x="-2560" y="-220" width="2560" height="1400" />
     </state>
     <state x="-1515" y="282" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-2560.-220.2560.1400@-2560.-220.2560.1400" timestamp="1609664958534" />
-    <state x="-1451" y="211" key="FileChooserDialogImpl" timestamp="1609602263727">
+    <state x="-1451" y="211" key="FileChooserDialogImpl" timestamp="1609667191338">
       <screen x="-2560" y="-220" width="2560" height="1400" />
     </state>
     <state x="-1088" y="320" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603305258105" />
     <state x="832" y="320" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1601878399625" />
     <state x="-1673" y="122" key="FileChooserDialogImpl/0.0.1920.1040/-2560.-220.2048.1112@-2560.-220.2048.1112" timestamp="1604863728056" />
-    <state x="-1451" y="211" key="FileChooserDialogImpl/0.0.1920.1040/-2560.-220.2560.1400@-2560.-220.2560.1400" timestamp="1609602263727" />
+    <state x="-1451" y="211" key="FileChooserDialogImpl/0.0.1920.1040/-2560.-220.2560.1400@-2560.-220.2560.1400" timestamp="1609667191338" />
     <state x="832" y="320" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605280779986" />
   </component>
 </project>
